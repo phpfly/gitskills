@@ -1,2 +1,5 @@
 <?php
-var_dump(phpinfo());
+
+$a = '123';
+
+echo gettype($a);
